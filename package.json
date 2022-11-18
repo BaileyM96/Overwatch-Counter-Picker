@@ -1,0 +1,19 @@
+{
+  "name": "overwatch-counter-picker",
+  "version": "1.0.0",
+  "description": "A counter picker to help you beat team comp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BaileyM96/Overwatch-Counter-Picker.git"
+  },
+  "author": "Bailey Mejia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BaileyM96/Overwatch-Counter-Picker/issues"
+  },
+  "homepage": "https://github.com/BaileyM96/Overwatch-Counter-Picker#readme"
+}
