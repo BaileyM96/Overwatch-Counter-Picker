@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/BaileyM96/Overwatch-Counter-Picker/issues"
   },
-  "homepage": "https://github.com/BaileyM96/Overwatch-Counter-Picker#readme"
+  "homepage": "https://github.com/BaileyM96/Overwatch-Counter-Picker#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
 }
